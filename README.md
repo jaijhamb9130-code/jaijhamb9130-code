@@ -17,10 +17,8 @@ Jai Jhamb
 </p>
 
 <p align="center">
-
 Building production software with modern web technologies,<br>
 scalable backend systems and clean software architecture.
-
 </p>
 
 <br>
@@ -399,53 +397,7 @@ I'm currently focused on strengthening the skills that matter for long-term soft
 - AI-Assisted Development
 - High-Performance APIs
 - Modern Backend Architecture
-
----
-<!-- ========================================================= -->
-<!--                     LET'S CONNECT                         -->
-<!-- ========================================================= -->
-
-# LET'S CONNECT
-
-If you're interested in discussing software engineering, collaborating on projects, or exploring opportunities, feel free to reach out.
-
-<br>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jai-jhamb-b97295337">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:jaijhamb9130@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/jaijhamb9130-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=jaijhamb9130-code&style=flat-square&color=0e75b6"/>
-
-</p>
-
----
-
-# QUICK FACTS
-
-- 💼 3 Software Development Internships
-- 🚀 10+ Production Applications
-- 📡 150+ REST API Endpoints
-- ☁️ AWS & Docker
-- 🌐 Full-Stack Development
-- 📱 Android • Web • PWA
-
+  
 ---
 
 # OPEN TO
