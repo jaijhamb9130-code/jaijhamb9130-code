@@ -1,22 +1,26 @@
-<!-- ============================ -->
-<!--        HERO SECTION         -->
-<!-- ============================ -->
+<!-- ========================================================= -->
+<!--                     HERO SECTION                           -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Jai Jhamb Banner"/>
+  <img src="assets/github-banner.png" alt="Jai Jhamb Banner" width="100%">
 </p>
 
 <br>
 
-<h1 align="center">Jai Jhamb</h1>
+<h1 align="center">
+Jai Jhamb
+</h1>
 
 <p align="center">
 <b>Full-Stack Software Engineer</b>
 </p>
 
 <p align="center">
-Building production software with clean architecture,<br>
-scalable backend systems and modern web technologies.
+
+Building production software with modern web technologies,<br>
+scalable backend systems and clean software architecture.
+
 </p>
 
 <br>
@@ -24,18 +28,18 @@ scalable backend systems and modern web technologies.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jai-jhamb-b97295337">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jaijhamb9130@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jaijhamb9130-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=jaijhamb9130-code&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=jaijhamb9130-code&style=flat-square&color=0e75b6"/>
 
 </p>
 
@@ -43,245 +47,73 @@ scalable backend systems and modern web technologies.
 
 # WHO I AM
 
-I'm a **Full-Stack Software Engineer** passionate about designing and building production software that solves practical business problems.
+I'm a **Full-Stack Software Engineer** with experience building software that solves practical business problems.
 
-Through **three software development internships**, I have contributed to **10+ production applications**, working across healthcare, logistics, e-commerce and business management domains.
+Through **three software development internships**, I've contributed to **10+ production applications** across healthcare, logistics, e-commerce and business management.
 
-I enjoy backend engineering, API design, cloud deployment and building reliable software that users can depend on every day.
+My primary focus is designing scalable backend systems, developing modern web applications and building production-ready software using **React, Next.js, TypeScript, Node.js, NestJS, MySQL, Docker and AWS**.
 
-Rather than simply writing code, I enjoy understanding business workflows, designing maintainable architectures and delivering software that creates measurable value.
+I enjoy transforming business requirements into reliable software with clean architecture, maintainable code and long-term scalability.
 
-<br>
+---
+# EXPERIENCE AT A GLANCE
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **3** | **10+** | **150+** | **8+** |
+| Internships | Production Apps | REST APIs | Business Clients |
+
+</div>
 
 ---
 
-# ENGINEERING SNAPSHOT
+# INDUSTRIES
 
-<table align="center">
-
-<tr>
-
-<td align="center" width="25%">
-
-<h2>3</h2>
-
-Software Development<br>
-Internships
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>10+</h2>
-
-Production<br>
-Applications
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>150+</h2>
-
-REST API<br>
-Endpoints
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>8+</h2>
-
-Business<br>
-Clients
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+- 🏥 Healthcare
+- 🚛 Logistics & Transportation
+- 🛒 E-Commerce
+- 📊 Business Management
+- ☁️ Cloud Applications
+- 📱 Cross-Platform Software
 
 ---
-
-# ENGINEERING DOMAINS
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🏥 Healthcare
-
-• Digital Healthcare Systems
-
-• Pharmacy Management
-
-• Patient Management
-
-• OCR Integration
-
-</td>
-
-<td width="50%">
-
-### 🚛 Logistics
-
-• Freight Management
-
-• Bilty Management
-
-• Route Operations
-
-• Dashboard Analytics
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 E-Commerce
-
-• Customer Portal
-
-• Admin Dashboard
-
-• Inventory Management
-
-• QR Code Systems
-
-</td>
-
-<td width="50%">
-
-### 📊 Business Software
-
-• Cost Management
-
-• Reporting
-
-• Analytics
-
-• Workflow Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ================================= -->
-<!--     ENGINEERING TOOLKIT           -->
-<!-- ================================= -->
+<!-- ========================================================= -->
+<!--                 ENGINEERING TOOLKIT                       -->
+<!-- ========================================================= -->
 
 # ENGINEERING TOOLKIT
 
-<p align="center">
-
-Rather than collecting technologies, I focus on selecting the right tools for building scalable, maintainable and production-ready software.
-
-</p>
+Instead of focusing on individual technologies, I focus on selecting the right tools to build scalable, maintainable and production-ready software.
 
 <br>
-
-<table>
-
-<tr>
-
-<td width="25%" valign="top">
 
 ## Languages
 
-JavaScript
-
-TypeScript
-
-Python
-
-SQL
-
-Java
-
-C++
-
-</td>
-
-<td width="25%" valign="top">
-
-## Frontend
-
-React.js
-
-Next.js
-
-React Native
-
-Tailwind CSS
-
-HTML5
-
-CSS3
-
-</td>
-
-<td width="25%" valign="top">
-
-## Backend
-
-Node.js
-
-NestJS
-
-Express.js
-
-REST APIs
-
-JWT Authentication
-
-API Integration
-
-</td>
-
-<td width="25%" valign="top">
-
-## Cloud
-
-AWS
-
-Docker
-
-Git
-
-GitHub
-
-Linux
-
-</td>
-
-</tr>
-
-</table>
+`JavaScript` • `TypeScript` • `Python` • `SQL` • `Java` • `C++`
 
 <br>
 
----
+## Frontend
 
-# DATABASE & SOFTWARE ENGINEERING
+React.js • Next.js • React Native (Expo)
 
-<table>
+Tailwind CSS • HTML5 • CSS3
 
-<tr>
+<br>
 
-<td width="50%">
+## Backend
 
-### Database
+Node.js • NestJS • Express.js
+
+REST APIs • JWT Authentication
+
+API Integration • Bcrypt
+
+<br>
+
+## Database
 
 MySQL
 
@@ -293,15 +125,29 @@ Database Design
 
 SQL Query Optimization
 
-</td>
+<br>
 
-<td width="50%">
+## Cloud & DevOps
 
-### Engineering
+AWS
 
-Object-Oriented Programming
+Docker
 
-MVC Architecture
+Git
+
+GitHub
+
+Linux
+
+CI/CD
+
+<br>
+
+## Engineering Concepts
+
+Software Architecture
+
+REST API Design
 
 Authentication & Authorization
 
@@ -309,475 +155,335 @@ Role-Based Access Control
 
 Cross-Platform Development
 
-REST API Design
+Performance Optimization
 
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-# SELECTED WORK
-
-<p align="center">
-
-Production software built during internships and personal engineering projects.
-
-</p>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚛 AB Logistics
-
-Production logistics platform.
-
-**Highlights**
-
-• Android
-
-• Progressive Web App
-
-• Web Dashboard
-
-• Freight Management
-
-• Authentication
-
-• Analytics
-
-**Stack**
-
-React Native
-
-TypeScript
-
-NestJS
-
-MySQL
-
-AWS
-
-<br>
-
-<a href="https://github.com/jaijhamb9130-code/AB-Logistics">
-
-View Repository →
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🛒 E-Commerce Platform
-
-Enterprise commerce ecosystem.
-
-**Highlights**
-
-• Customer Portal
-
-• Staff Portal
-
-• Admin Dashboard
-
-• QR Code Scanner
-
-• AWS S3 Uploads
-
-• Inventory
-
-**Stack**
-
-React
-
-Next.js
-
-NestJS
-
-MySQL
-
-AWS
-
-<br>
-
-<a href="https://github.com/jaijhamb9130-code/ppw-">
-
-View Repository →
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ☕ TulipTea
-
-Business management software.
-
-**Highlights**
-
-• Operations
-
-• Reporting
-
-• Dashboard
-
-• Inventory
-
-• Business Workflow
-
-**Stack**
-
-React
-
-TypeScript
-
-Node.js
-
-MySQL
-
-<br>
-
-<a href="https://github.com/jaijhamb9130-code/TulipTea_Project">
-
-View Repository →
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💰 Cost Management
-
-Financial tracking application.
-
-**Highlights**
-
-• Expense Tracking
-
-• Reports
-
-• Analytics
-
-• Dashboard
-
-• Charts
-
-**Stack**
-
-React
-
-Node.js
-
-MySQL
-
-<br>
-
-<a href="https://github.com/jaijhamb9130-code/Cost-Management-App">
-
-View Repository →
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-# WHAT I ENJOY BUILDING
-
-<table>
-
-<tr>
-
-<td width="33%">
-
-### Backend
-
-REST APIs
-
-Authentication
-
-Database Design
-
-Cloud Services
-
-</td>
-
-<td width="33%">
-
-### Products
-
-Business Software
-
-Healthcare
-
-Logistics
-
-E-Commerce
-
-</td>
-
-<td width="33%">
-
-### Engineering
+Scalable Backend Systems
 
 Clean Code
 
-Scalable Systems
+---
 
-Performance
+# CURRENT INTERESTS
 
-Maintainability
+Currently expanding my expertise in:
 
-</td>
+• System Design
 
-</tr>
+• Distributed Systems
 
-</table>
+• Cloud Architecture
+
+• AI Integration
+
+• Microservices
+
+• Performance Engineering
+
+• Scalable APIs
+
+---
+<!-- ========================================================= -->
+<!--                   SELECTED WORK                           -->
+<!-- ========================================================= -->
+
+# SELECTED WORK
+
+The following projects represent production software and business applications built during internships and personal development.
+
+<br>
+
+## 🚛 AB Logistics
+
+> Cross-platform logistics management platform built for real business operations.
+
+**Highlights**
+
+- Android, Web & Progressive Web App
+- Freight & Bilty Management
+- Role-Based Authentication
+- Dashboard & Analytics
+- Production Deployment
+
+**Tech Stack**
+
+`React Native` • `TypeScript` • `NestJS` • `MySQL` • `AWS`
+
+🔗 **Repository**
+
+https://github.com/jaijhamb9130-code/AB-Logistics
 
 ---
 
-<!-- ================================= -->
-<!--      ENGINEERING JOURNEY          -->
-<!-- ================================= -->
+## 🛒 Enterprise E-Commerce Platform
+
+> Complete commerce ecosystem with dedicated Customer, Staff and Admin applications.
+
+**Highlights**
+
+- Inventory Management
+- QR Code Scanner
+- AWS S3 File Uploads
+- Secure Authentication
+- Order & Product Management
+- Responsive Dashboard
+
+**Tech Stack**
+
+`React` • `Next.js` • `NestJS` • `MySQL` • `AWS`
+
+🔗 **Repository**
+
+https://github.com/jaijhamb9130-code/ppw-
+
+---
+
+## ☕ TulipTea
+
+> Business management application developed to simplify day-to-day operational workflows.
+
+**Highlights**
+
+- Business Operations
+- Reporting Dashboard
+- Inventory Management
+- User Authentication
+- Scalable Architecture
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `MySQL`
+
+🔗 **Repository**
+
+https://github.com/jaijhamb9130-code/TulipTea_Project
+
+---
+
+## 💰 Cost Management App
+
+> Expense management platform focused on financial reporting and business analytics.
+
+**Highlights**
+
+- Expense Tracking
+- Financial Reports
+- Dashboard Analytics
+- Data Visualization
+- User Management
+
+**Tech Stack**
+
+`React` • `Node.js` • `MySQL`
+
+🔗 **Repository**
+
+https://github.com/jaijhamb9130-code/Cost-Management-App
+
+---
+
+# ENGINEERING IMPACT
+
+Throughout these projects I have worked on:
+
+- Designing production-ready backend APIs
+- Authentication & authorization systems
+- Database architecture and optimization
+- Cross-platform application development
+- Cloud deployment using AWS
+- Docker-based application deployment
+- Third-party API integrations
+- Business workflow automation
+
+---
+<!-- ========================================================= -->
+<!--                  ENGINEERING JOURNEY                      -->
+<!-- ========================================================= -->
 
 # ENGINEERING JOURNEY
 
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-## 2024
-
-### Machine Learning
-
-Python
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
-Recommendation Systems
-
-</td>
-
-<td width="5%" align="center">
-
-➡️
-
-</td>
-
-<td width="30%" align="center">
-
-## 2025
-
-### Software Development
-
-React
-
-Next.js
-
-Node.js
-
-NestJS
-
-Production Applications
-
-</td>
-
-<td width="5%" align="center">
-
-➡️
-
-</td>
-
-<td width="35%" align="center">
-
-## 2026 →
-
-### Full-Stack Engineering
-
-Backend Systems
-
-Cloud Deployment
-
-System Design
-
-Scalable Software
-
-AI Integration
-
-</td>
-
-</tr>
-
-</table>
+Every project has helped shape my engineering approach. My journey has been driven by curiosity, continuous learning, and solving real business problems.
 
 <br>
+
+```text
+2024
+│
+├── Machine Learning Internship
+│   • Python
+│   • NumPy
+│   • Pandas
+│   • Scikit-learn
+│   • Recommendation Systems
+│
+2025
+│
+├── Software Development Internship
+│   • React
+│   • Next.js
+│   • Node.js
+│   • NestJS
+│   • Production Applications
+│
+2026
+│
+├── Full-Stack Engineering
+│   • Backend Systems
+│   • Cloud Deployment
+│   • System Design
+│   • Software Architecture
+│
+▼
+Future
+Building scalable software used by thousands of users.
+```
 
 ---
 
 # CURRENT FOCUS
 
-<table>
+I'm currently focused on strengthening the skills that matter for long-term software engineering.
 
-<tr>
+### Backend Engineering
 
-<td width="33%">
+- REST API Design
+- Authentication & Authorization
+- Software Architecture
+- Scalable Backend Systems
 
-### 🚀 Engineering
+### Cloud & DevOps
 
-• Backend Development
+- AWS
+- Docker
+- CI/CD
+- Linux
 
-• REST API Design
+### System Design
 
-• System Design
+- Database Design
+- Performance Optimization
+- Design Patterns
+- Distributed Systems
 
-• Software Architecture
+### Artificial Intelligence
 
-</td>
-
-<td width="33%">
-
-### ☁️ Cloud
-
-• AWS
-
-• Docker
-
-• Linux
-
-• CI/CD
-
-</td>
-
-<td width="33%">
-
-### 🤖 AI
-
-• AI Integration
-
-• OCR Systems
-
-• Automation
-
-• Recommendation Engines
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-# CURRENTLY BUILDING
-
-Production-ready software focused on solving practical business problems.
-
-Current areas of interest include:
-
-- Cross-platform business applications
-- Scalable backend architectures
-- Secure authentication systems
-- Cloud-native deployments
-- AI-assisted business solutions
-- Modern dashboard applications
-
-<br>
+- AI Integration
+- OCR Applications
+- Automation
+- Recommendation Systems
 
 ---
 
 # ENGINEERING PRINCIPLES
 
-✔ Write maintainable code.
+> The technologies change every year. Good engineering principles last much longer.
 
 ✔ Build software that solves real problems.
 
-✔ Keep architecture simple and scalable.
+✔ Prefer maintainable architecture over unnecessary complexity.
 
-✔ Prefer reliability over unnecessary complexity.
+✔ Write code that is easy to understand and extend.
 
-✔ Continuously learn and improve.
+✔ Focus on scalability, reliability and security.
 
-✔ Focus on business value, not just technology.
+✔ Learn continuously through real-world projects.
 
-<br>
-
----
-
-# BEYOND CODE
-
-Outside of development, I enjoy exploring emerging technologies, improving software architecture skills, and learning how engineering decisions translate into better products and business outcomes.
-
-I believe great engineers never stop learning, and every project is an opportunity to improve both technical skills and problem-solving ability.
-
-<br>
+✔ Build products with long-term maintainability in mind.
 
 ---
+
+# CURRENTLY EXPLORING
+
+- Advanced System Design
+- Cloud-Native Applications
+- Microservices
+- AI-Assisted Development
+- High-Performance APIs
+- Modern Backend Architecture
+
+---
+<!-- ========================================================= -->
+<!--                     LET'S CONNECT                         -->
+<!-- ========================================================= -->
 
 # LET'S CONNECT
+
+If you're interested in discussing software engineering, collaborating on projects, or exploring opportunities, feel free to reach out.
+
+<br>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jai-jhamb-b97295337">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:jaijhamb9130@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/jaijhamb9130-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-</p>
+&nbsp;
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=jaijhamb9130-code&style=flat-square&color=0e75b6"/>
+
+</p>
 
 ---
 
-<p align="center">
+# QUICK FACTS
 
-### Thanks for stopping by.
+- 💼 3 Software Development Internships
+- 🚀 10+ Production Applications
+- 📡 150+ REST API Endpoints
+- ☁️ AWS & Docker
+- 🌐 Full-Stack Development
+- 📱 Android • Web • PWA
 
-If you're interested in collaborating, discussing software engineering, or building impactful products, feel free to connect.
+---
+
+# OPEN TO
+
+✔ Software Engineering Opportunities
+
+✔ Full-Stack Development
+
+✔ Backend Engineering
+
+✔ Cloud Technologies
+
+✔ Open Source Collaboration
+
+✔ Building Real Products
+
+---
+
+# CURRENT GOAL
+
+To become an engineer who designs scalable systems, writes maintainable software, and contributes to products that solve meaningful business problems.
+
+Rather than chasing every new framework, I prefer strengthening engineering fundamentals, system design knowledge, backend architecture, and cloud-native development.
+
+---
+
+<div align="center">
+
+## Thanks for visiting.
+
+Building software isn't just about writing code—it's about understanding problems, designing thoughtful solutions, and continuously improving as an engineer.
+
+If my work aligns with what you're building, I'd be happy to connect.
 
 <br>
 
-<b>Building software that creates value — one project at a time.</b>
+**Jai Jhamb**
 
-</p>
+*Full-Stack Software Engineer*
+
+</div>
